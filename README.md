@@ -4,7 +4,7 @@
 ### In this project we used machine learning models to help with predicting customer credit risk. After cleaning up the dataset provided we used a number of algorithms to help with determining the data predictions. 
 
 
-## Algorithms Used
+## Results
 #### 1.	Naïve Random Oversampling
 ![Naive Random Oversampling](https://user-images.githubusercontent.com/112769590/216803302-5117b69f-5b4f-432a-9564-9e2a469ca92d.png)
 #### 2.	Smote Oversampling
