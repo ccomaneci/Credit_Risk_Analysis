@@ -3,6 +3,7 @@
 ## Overview
 ### In this project we used machine learning models to help with predicting customer credit risk. After cleaning up the dataset provided we used a number of algorithms to help with determining the data predictions. 
 
+
 ## Algorithms Used
 #### 1.	Naïve Random Oversampling
 ![Naive Random Oversampling](https://user-images.githubusercontent.com/112769590/216803302-5117b69f-5b4f-432a-9564-9e2a469ca92d.png)
@@ -17,3 +18,5 @@
 #### 6.	Easy Ensemble AdaBoost Classifier
 ![Easy Ensemble AdaBoost Classifier ](https://user-images.githubusercontent.com/112769590/216803336-f4464d57-9460-43ab-8e74-58c05f089537.png)
 
+## Summary 
+### Using these algorithms, we were able to identify the high and low credit risk associated with these loans. This helped with determining the accuracy and precision rate of our data set when using the algorithms for predictions.
